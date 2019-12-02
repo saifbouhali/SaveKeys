@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestion des préférences partagées</string>
+    <string name="remamber_me">Remamber me :</string>
+    <string name="login">show</string>
+    <string name="save">Save</string>
+    <string name="user">user</string>
+    <string name="clear">Clear</string>
+    <string name="user_information">User information :</string>
+</resources>
